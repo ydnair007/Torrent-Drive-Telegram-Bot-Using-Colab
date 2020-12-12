@@ -32,11 +32,6 @@ After download finishes the downloaded files will be in there in your drive in a
 3. beautifulsoup4
 4. https://www.libtorrent.org/
 
-
-# Screenshots
-![TELEGRAMSS](https://github.com/nastyzera/Torrent-Drive-Telegram-Bot-Using-Colab/raw/master/Screenshots/TelegramBotScreenshot.jpeg)
-![COLABSS](https://github.com/nastyzera/Torrent-Drive-Telegram-Bot-Using-Colab/raw/master/Screenshots/ColabScreenshot.jpeg)
-
 ### TODO
 1. Concurrent torrent download
 2. Progressbar of the download.
